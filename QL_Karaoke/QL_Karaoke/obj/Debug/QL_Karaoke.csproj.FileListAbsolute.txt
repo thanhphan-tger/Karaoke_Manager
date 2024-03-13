@@ -1,0 +1,135 @@
+F:\.NET\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+F:\.NET\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+F:\.NET\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.AssemblyReference.cache
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.SuggestedBindingRedirects.cache
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Login.resources
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_DangKy.resources
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Admin.resources
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_QuanLyKaraoke.resources
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Account.resources
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_PassWord.resources
+F:\.NET\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_HoaDon.resources
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Account.resources
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Admin.resources
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_HoaDon.resources
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Login.resources
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_QuanLyKaraoke.resources
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+C:\Users\Admin\source\repos\CN.NET\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_DatPhong.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.AssemblyReference.cache
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.SuggestedBindingRedirects.cache
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Account.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Admin.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_DatPhong.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_HoaDon.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Login.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_QuanLyKaraoke.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.Shared.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\stdole.dll
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CopyComplete
+F:\.NET\BAITAPLON\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_BaoCao.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.Shared.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\stdole.dll
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.AssemblyReference.cache
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.SuggestedBindingRedirects.cache
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Account.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Admin.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_DatPhong.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_HoaDon.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Login.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_QuanLyKaraoke.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_BaoCao.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CopyComplete
+F:\.NET\Nhóm DAO\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_InHĐ.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\bin\Debug\stdole.dll
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.AssemblyReference.cache
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.SuggestedBindingRedirects.cache
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Account.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Admin.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_DatPhong.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_HoaDon.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_Login.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_QuanLyKaraoke.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_BaoCao.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Form_InHĐ.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CopyComplete
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+E:\Karaoke\DAO_.NET_30_2022\DAO_.NET_30_2022\BAITAPLON\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
